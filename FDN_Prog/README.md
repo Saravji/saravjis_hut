@@ -1,17 +1,17 @@
 # Foundations of Programming (Python)
 
 ## What this course is
-This course provides a rapid and practical introduction to computer programming and application development.
-This course is for students with little or no programming experience.
-This course is for students who would benefit from a refresher course.
-This course is for students looking to explore if programming "is for them".
-This course explores fundamental components and constructs of computer programming.
-This course explores the logic of programming.
-This course explores different paradigms.
+- This course provides a rapid and practical introduction to computer programming and application development.
+- This course is for students with little or no programming experience.
+- This course is for students who would benefit from a refresher course.
+- This course is for students looking to explore if programming "is for them".
+- This course explores fundamental components and constructs of computer programming.
+- This course explores the logic of programming.
+- This course explores different paradigms.
 
 ## What this course is NOT
-This course will use python as a tool. 
-This course will not adhere to only python conventions.
+- This course will use python as a tool. 
+- This course will not adhere to only python conventions.
 
 ## Course Objective
 Students completing this course will be able to:
