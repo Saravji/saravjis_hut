@@ -9,4 +9,4 @@
 
 [Back to Module 01](Module_01.md)
 
-[LAB01_C]: images/LAB01_C.JPG "script LAB01_C"
+[LAB01_C](images/LAB01_C.JPG) "script LAB01_C"
