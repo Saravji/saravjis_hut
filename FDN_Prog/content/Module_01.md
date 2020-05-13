@@ -11,4 +11,4 @@
 * FDProgramming [Module 01 Part 4](https://youtu.be/VhLSrMcg5Vg) (covers the text document including Lab D)
 * FDProgramming [Module 01 Summary](https://youtu.be/OamRCosJuDY) (end comments / covers the text document Summary)
 
-[Back to Course Overview] (../README.md)
+[Back to Course Overview](../README.md)
