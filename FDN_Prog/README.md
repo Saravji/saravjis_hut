@@ -32,7 +32,7 @@ Students completing this course will be able to:
 
 ## Module materials collection.
 
-1. [Module 01](Module_01.md) Programming Basics, Setting up and Basics of Python, "Hello World" Application.
+1. [Module 01](content/Module_01.md) Programming Basics, Setting up and Basics of Python, "Hello World" Application.
 2. [Module 02](Module_02.md) Python IDLE; Build-in functions, operators and data types.
 3. [Module 03](Module_03.md) Spyder IDE; Operators, functions & expressions. If statements, while loops, file access and program arguments.
 4. [Module 04](Module_04.md) Loops, Sequences. Strings, Tuples, Ranges and Lists. Writing Data to files. Multidimensional data constructs.

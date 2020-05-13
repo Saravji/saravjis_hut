@@ -7,3 +7,5 @@
 3.	Execute “python --version’’ to display your installed python version.
 4.	Start the python shell (idle).
 5.	Close the Python shell
+
+[Back to Module 01] (Module_01.md)
