@@ -15,3 +15,5 @@
 * FDProgramming [Module 01 Summary](https://youtu.be/OamRCosJuDY) (end comments / covers the text document Summary)
 
 [Back to Course Overview](../README.md)
+
+<a href="http://example.com/" target="_blank">Hello, world!</a>
