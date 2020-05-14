@@ -10,7 +10,7 @@ Explaining the technical part (how to write "Computer")
 [What this course is not](#What-this-coiurse-is-not)
 [Course Objective](#Course-Objective)
 [Course Format](#Course-Format)
-[Module materials collection](#Module-materials-collection)
+[Modules materials collection](#Modules-materials-collection)
 
 ## What this course is
 - This course provides a rapid and practical introduction to computer programming and application development.
@@ -53,9 +53,9 @@ University of Washington: [Foundations of Programming - Online with Realtime mee
 
 ### other options in development
 
-## Module materials collection
+## Modules materials collection
 
-1. [Module 01](content/Module_01.md) Programming Basics, Setting up and Basics of Python, "Hello World" Application.
+1. [Module 01](Modules.md#Module-01-Materials-List) Programming Basics, Setting up and Basics of Python, "Hello World" Application.
 2. [Module 02](Module_02.md) Python IDLE; Build-in functions, operators and data types.
 3. [Module 03](Module_03.md) Spyder IDE; Operators, functions & expressions. If statements, while loops, file access and program arguments.
 4. [Module 04](Module_04.md) Loops, Sequences. Strings, Tuples, Ranges and Lists. Writing Data to files. Multidimensional data constructs.
