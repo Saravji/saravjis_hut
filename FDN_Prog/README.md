@@ -4,6 +4,10 @@ An introductory course to programming, using python.
 Exploring the logical part (how to think like a Programmer).
 Explaining the technical part (how to write "Computer")
 
+## Table of Contents
+
+[What this course is](#What-this-course-is)
+
 ## What this course is
 - This course provides a rapid and practical introduction to computer programming and application development.
 - This course is for students with little or no programming experience.
@@ -37,10 +41,11 @@ Students completing this course will be able to:
 ### Instructor led, CEUs eligible:
 University of Washington: [Foundations of Programming - Online with Realtime meetings](https://www.pce.uw.edu/courses/foundations-of-programming-python)
 - approx. 300 pages of accompanying course text materials.
+- additional video content
 - curated list of additional referenced sources.
 - written and programming assignments (graded and with feedback)
-- weekly online classroom.
-- instructor and teaching assistant available for mentoring.
+- weekly Instructor led online classroom.
+- Instructor and Teaching Assistant available for mentoring.
 
 ### other options in development
 
