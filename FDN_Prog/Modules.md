@@ -3,15 +3,15 @@
 ## Modules Materials Lists
 
 ### Table of Contents
-[Module 01](#Module-01-Materials-List)
-[Module 02](#Module-02-Materials-List)
-[Module 03](#Module-03-Materials-List)
-[Module 04](#Module-04-Materials-List)
-[Module 05](#Module-05-Materials-List)
-[Module 06](#Module-06-Materials-List)
-[Module 07](#Module-07-Materials-List)
-[Module 08](#Module-08-Materials-List)
-[Module 09](#Module-09-Materials-List)
+[Module 01](#Module-01-Materials-List)  
+[Module 02](#Module-02-Materials-List)  
+[Module 03](#Module-03-Materials-List)  
+[Module 04](#Module-04-Materials-List)  
+[Module 05](#Module-05-Materials-List)  
+[Module 06](#Module-06-Materials-List)  
+[Module 07](#Module-07-Materials-List)  
+[Module 08](#Module-08-Materials-List)  
+[Module 09](#Module-09-Materials-List)  
 
 ## Module 01 Materials List
 
