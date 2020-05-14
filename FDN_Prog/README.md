@@ -7,6 +7,10 @@ Explaining the technical part (how to write "Computer")
 ## Table of Contents
 
 [What this course is](#What-this-course-is)
+[What this course is not](#What-this-coiurse-is-not)
+[Course Objective](#Course-Objective)
+[Course Format](#Course-Format)
+[Module materials collection](#Module-materials-collection)
 
 ## What this course is
 - This course provides a rapid and practical introduction to computer programming and application development.
@@ -38,7 +42,7 @@ Students completing this course will be able to:
 ### free
 - asking for voluntary contributions.
 
-### Instructor led, CEUs eligible:
+### Instructor led, CEUs eligible
 University of Washington: [Foundations of Programming - Online with Realtime meetings](https://www.pce.uw.edu/courses/foundations-of-programming-python)
 - approx. 300 pages of accompanying course text materials.
 - additional video content
@@ -49,7 +53,7 @@ University of Washington: [Foundations of Programming - Online with Realtime mee
 
 ### other options in development
 
-## Module materials collection.
+## Module materials collection
 
 1. [Module 01](content/Module_01.md) Programming Basics, Setting up and Basics of Python, "Hello World" Application.
 2. [Module 02](Module_02.md) Python IDLE; Build-in functions, operators and data types.

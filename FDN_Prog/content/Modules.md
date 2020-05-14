@@ -1,6 +1,19 @@
-# Foundations of Programming (Python)  
+# Foundations of Programming (Python)
 
-## Module 01 Video List
+## Modules Materials Lists
+
+### Table of Contents
+[Module 01](#Module-01-Materials-List)
+[Module 02](#Module-02-Materials-List)
+[Module 03](#Module-03-Materials-List)
+[Module 04](#Module-04-Materials-List)
+[Module 05](#Module-05-Materials-List)
+[Module 06](#Module-06-Materials-List)
+[Module 07](#Module-07-Materials-List)
+[Module 08](#Module-08-Materials-List)
+[Module 09](#Module-09-Materials-List)
+
+## Module 01 Materials List
 
 * FDProgramming [Module 01 Part 1](https://youtu.be/xoqWGAxwrZ0) (covers the text document including Lab A)
 * FDProgramming [Install on Windows](https://youtu.be/AZAwg2dFM7M) (If you are using a Windows Computer)
@@ -13,6 +26,37 @@
 * FDProgramming [Module 01 Part 4](https://youtu.be/VhLSrMcg5Vg) (covers the text document including Lab D)
 * FDProgramming [Lab 01-D](Lab_01_D.md)
 * FDProgramming [Module 01 Summary](https://youtu.be/OamRCosJuDY) (end comments / covers the text document Summary)
+
+## Module 02 Materials List
+
+
+
+## Module 03 Materials List
+
+
+
+## Module 04 Materials List
+
+
+
+## Module 05 Materials List
+
+
+
+## Module 06 Materials List
+
+
+
+## Module 07 Materials List
+
+
+
+## Module 08 Materials List
+
+
+
+## Module 09 Materials List
+
 
 [Back to Course Overview](../README.md)
 
