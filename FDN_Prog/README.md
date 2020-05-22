@@ -1,8 +1,8 @@
 # Foundations of Programming (Python)
 
-An introductory course to programming, using python.
-Exploring the logical part (how to think like a Programmer).
-Explaining the technical part (how to write "Computer")
+An introductory course to programming, using python.  
+Exploring the logical part (how to think like a Programmer).  
+Explaining the technical part (how to speak "Computer").  
 
 ## Table of Contents
 
@@ -40,7 +40,10 @@ Students completing this course will be able to:
 - these github documents
 
 ### free
-- asking for voluntary contributions.
+asking for voluntary contributions: [Saravji's Hut - Patreon Page](https://www.patreon.com/saravjis_hut)
+
+### Intermediary course formats
+In development
 
 ### Instructor led, CEUs eligible
 University of Washington: [Foundations of Programming - Online with Realtime meetings](https://www.pce.uw.edu/courses/foundations-of-programming-python)
@@ -50,8 +53,6 @@ University of Washington: [Foundations of Programming - Online with Realtime mee
 - written and programming assignments (graded and with feedback)
 - weekly Instructor led online classroom.
 - Instructor and Teaching Assistant available for mentoring.
-
-### other options in development
 
 ## Modules materials collection
 
@@ -64,5 +65,4 @@ University of Washington: [Foundations of Programming - Online with Realtime mee
 7. [Module 07](Modules.md#Module-07-Materials-List) Structured error handling, read / write text files and binary files. Markup language.
 8. [Module 08](Modules.md#Module-08-Materials-List) Introduction to Software Objects: Classes and Objects, Constructors, Fields, Attributes and Methods. Typehints and Docstring.
 9. [Module 09](Modules.md#Module-09-Materials-List) expand OOP: Create Modules to organize classes and functions. Linking modules, classes working with each other. Inheritance and UML
-10. [Module 10](Module_10.md)
 
