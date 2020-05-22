@@ -7,10 +7,19 @@
 ## What Saravji's Hut is not
 - An attempt to replace primary income.
 
-## Posted Courses
+## How you can contribute:
+- spread the word
+- give constructive feedback
+- support via voluntary contributions: [Saravji's Hut - Patreon Page](https://www.patreon.com/saravjis_hut)
+
+## Posted Materials
 - [Foundations of Programming (Python)](FDN_Prog/README.md)
 
-## Courses in Development
+## Materials in Development
+- ML / DS: Feature Selection and Feature Engineering
 
-
-## Courses Planned
+## Planned Materials
+- ML / DS: visualizations
+- ML / DS: fundamentals
+- CS: Algorithms
+- Python: web service with django

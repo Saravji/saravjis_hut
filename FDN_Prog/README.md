@@ -35,17 +35,17 @@ Students completing this course will be able to:
 
 ## Course Format
 
-### all courses:
+### all formats:
 - youtube module videos
 - these github documents
 
-### free
+### free format:
 asking for voluntary contributions: [Saravji's Hut - Patreon Page](https://www.patreon.com/saravjis_hut)
 
 ### Intermediary course formats
 In development
 
-### Instructor led, CEUs eligible
+### Instructor led, CEUs eligible format:
 University of Washington: [Foundations of Programming - Online with Realtime meetings](https://www.pce.uw.edu/courses/foundations-of-programming-python)
 - approx. 300 pages of accompanying course text materials.
 - additional video content
