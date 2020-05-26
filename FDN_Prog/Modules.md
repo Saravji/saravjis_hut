@@ -58,5 +58,5 @@
 ## Module 09 Materials List
 
 
-[Back to Course Overview](../README.md)
+[Back to Learning Path Overview](README.md)
 
