@@ -1,39 +1,39 @@
 # Foundations of Programming (Python)
 
-An introductory course to programming, using python.  
+An introductory learning path to programming, using python.  
 Exploring the logical part (how to think like a Programmer).  
 Explaining the technical part (how to speak "Computer").  
 
 ## Table of Contents
 
-[What this course is](#What-this-course-is)  
-[What this course is not](#What-this-coiurse-is-not)  
-[Course Objective](#Course-Objective)  
-[Course Format](#Course-Format)  
+[What this learning path is](#What-this-learning-path-is)  
+[What this learning path is not](#What-this-learning-path-is-not)  
+[learning path Objective](#Objective-of-this-learning-path)  
+[learning path Format](#Formats of-this-learning-path)  
 [Modules materials collection](#Modules-materials-collection)  
 
-## What this course is
-- This course provides a rapid and practical introduction to computer programming and application development.
-- This course is for students with little or no programming experience.
-- This course is for students who would benefit from a refresher course.
-- This course is for students looking to explore if programming "is for them".
-- This course explores fundamental components and constructs of computer programming.
-- This course explores the logic of programming.
-- This course explores different paradigms.
+## What this learning path is
+- A rapid and practical introduction to computer programming and application development.
+- For learners with little or no programming experience.
+- For learners who would benefit from a refresher learning path.
+- For learners looking to explore if programming "is for them".
+- Exploring fundamental components and constructs of computer programming.
+- Exploring the logic of programming.
+- Exploring different programming paradigms.
 
-## What this course is NOT
-- This course will use python as a tool. 
-- This course will not adhere to only python conventions.
+## What this learning path is NOT
+- This learning path is not a python course - It will use python as a tool and focus not only on the syntax, but also the logic of programming. 
+- This learning path will not adhere python conventions - It will introduce many valid conventions found throughout the software industry.
 
-## Course Objective
-Students completing this course will be able to:
+## Objective of this learning path
+Learners completing this learning path will be able to:
 - demonstrate basic computer programming concepts.
 - explain the software design process, including consideration of some common design trade-offs.
 - program in a modern programming language.
 - create non-trivial programs in Python.
 - recognize programming paradigms and concepts.
 
-## Course Format
+## Formats of this learning path
 
 ### all formats:
 - youtube module videos
@@ -42,12 +42,12 @@ Students completing this course will be able to:
 ### free format:
 asking for voluntary contributions: [Saravji's Hut - Patreon Page](https://www.patreon.com/saravjis_hut)
 
-### Intermediary course formats
+### Intermediary formats
 In development
 
 ### Instructor led, CEUs eligible format:
-University of Washington: [Foundations of Programming - Online with Realtime meetings](https://www.pce.uw.edu/courses/foundations-of-programming-python)
-- approx. 300 pages of accompanying course text materials.
+University of Washington: [Foundations of Programming - Online with Realtime meetings](https://www.pce.uw.edu/learning paths/foundations-of-programming-python)
+- approx. 300 pages of accompanying learning path text materials.
 - additional video content
 - curated list of additional referenced sources.
 - written and programming assignments (graded and with feedback)
