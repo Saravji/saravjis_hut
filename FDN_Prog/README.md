@@ -6,11 +6,11 @@ Explaining the technical part (how to speak "Computer").
 
 ## Table of Contents
 
-[What this learning path is](#What-this-learning-path-is)  
-[What this learning path is not](#What-this-learning-path-is-not)  
-[Objective of this learning path](#Objective-of-this-learning-path)  
-[Formats of this learning path](#Formats-of-this-learning-path)  
-[Modules materials collection](#Modules-materials-collection)  
+[What this learning path is](#what-this-learning-path-is)  
+[What this learning path is not](#what-this-learning-path-is-not)  
+[Objective of this learning path](#objective-of-this-learning-path)  
+[Formats of this learning path](#formats-of-this-learning-path)  
+[Modules materials collection](#modules-materials-collection)  
 
 ## What this learning path is
 - A rapid and practical introduction to computer programming and application development.
