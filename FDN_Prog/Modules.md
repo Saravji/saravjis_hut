@@ -3,15 +3,15 @@
 ## Modules Materials Lists
 
 ### Table of Contents
-[Module 01](#Module-01-Materials-List)  
-[Module 02](#Module-02-Materials-List)  
-[Module 03](#Module-03-Materials-List)  
-[Module 04](#Module-04-Materials-List)  
-[Module 05](#Module-05-Materials-List)  
-[Module 06](#Module-06-Materials-List)  
-[Module 07](#Module-07-Materials-List)  
-[Module 08](#Module-08-Materials-List)  
-[Module 09](#Module-09-Materials-List)  
+[Module 01](#module-01-materials-list)  
+[Module 02](#module-02-materials-list)  
+[Module 03](#module-03-materials-list)  
+[Module 04](#module-04-materials-list)  
+[Module 05](#module-05-materials-list)  
+[Module 06](#module-06-materials-list)  
+[Module 07](#module-07-materials-list)  
+[Module 08](#module-08-materials-list)  
+[Module 09](#module-09-materials-list)  
 
 ## Module 01 Materials List
 
@@ -60,4 +60,3 @@
 
 [Back to Course Overview](../README.md)
 
-<a href="http://example.com/" target="_blank">Hello, world!</a>

@@ -56,13 +56,13 @@ University of Washington: [Foundations of Programming - Online with Realtime mee
 
 ## Modules materials collection
 
-1. [Module 01](Modules.md#Module-01-Materials-List) Programming Basics, Setting up and Basics of Python, "Hello World" Application.
-2. [Module 02](Modules.md#Module-02-Materials-List) Python IDLE; Build-in functions, operators and data types.
-3. [Module 03](Modules.md#Module-03-Materials-List) Spyder IDE; Operators, functions & expressions. If statements, while loops, file access and program arguments.
-4. [Module 04](Modules.md#Module-04-Materials-List) Loops, Sequences. Strings, Tuples, Ranges and Lists. Writing Data to files. Multidimensional data constructs.
-5. [Module 05](Modules.md#Module-05-Materials-List) Lists, Dictionaries. Separation of Concerns. Error handling, functions and script templates. Git and GitHub.
-6. [Module 06](Modules.md#Module-06-Materials-List) Functions and Classes. Variable Scope and DocString.
-7. [Module 07](Modules.md#Module-07-Materials-List) Structured error handling, read / write text files and binary files. Markup language.
-8. [Module 08](Modules.md#Module-08-Materials-List) Introduction to Software Objects: Classes and Objects, Constructors, Fields, Attributes and Methods. Typehints and Docstring.
-9. [Module 09](Modules.md#Module-09-Materials-List) expand OOP: Create Modules to organize classes and functions. Linking modules, classes working with each other. Inheritance and UML
+1. [Module 01](Modules.md#module-01-materials-list) Programming Basics, Setting up and Basics of Python, "Hello World" Application.
+2. [Module 02](Modules.md#module-02-materials-list) Python IDLE; Build-in functions, operators and data types.
+3. [Module 03](Modules.md#module-03-materials-list) Spyder IDE; Operators, functions & expressions. If statements, while loops, file access and program arguments.
+4. [Module 04](Modules.md#module-04-materials-list) Loops, Sequences. Strings, Tuples, Ranges and Lists. Writing Data to files. Multidimensional data constructs.
+5. [Module 05](Modules.md#module-05-materials-list) Lists, Dictionaries. Separation of Concerns. Error handling, functions and script templates. Git and GitHub.
+6. [Module 06](Modules.md#module-06-materials-list) Functions and Classes. Variable Scope and DocString.
+7. [Module 07](Modules.md#module-07-materials-list) Structured error handling, read / write text files and binary files. Markup language.
+8. [Module 08](Modules.md#module-08-materials-list) Introduction to Software Objects: Classes and Objects, Constructors, Fields, Attributes and Methods. Typehints and Docstring.
+9. [Module 09](Modules.md#module-09-materials-list) expand OOP: Create Modules to organize classes and functions. Linking modules, classes working with each other. Inheritance and UML
 
