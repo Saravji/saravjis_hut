@@ -8,8 +8,8 @@ Explaining the technical part (how to speak "Computer").
 
 [What this learning path is](#What-this-learning-path-is)  
 [What this learning path is not](#What-this-learning-path-is-not)  
-[learning path Objective](#Objective-of-this-learning-path)  
-[learning path Format](#Formats of-this-learning-path)  
+[Objective of this learning path](#Objective-of-this-learning-path)  
+[Formats of this learning path](#Formats-of-this-learning-path)  
 [Modules materials collection](#Modules-materials-collection)  
 
 ## What this learning path is
