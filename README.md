@@ -19,6 +19,7 @@
 
 ## Materials in Development
 - Foundations of Programming (Python) Intermediary Formats  
+- Foundations of Programming (Python) additional Modules  
 - ML / DS: Feature Selection  
 - ML / DS: Feature Engineering  
 - ML / DS: setting up a conventional ML / DS workstation  
