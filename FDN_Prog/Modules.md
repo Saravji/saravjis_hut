@@ -16,8 +16,8 @@
 ## Module 01 Materials List
 Note: Text document is not part of free materials. See other learning path options to include the text document.
 * FDProgramming [Module 01 Part 1](https://youtu.be/xoqWGAxwrZ0) (covers the text document including Lab A)
-* FDProgramming [Install on Windows](https://youtu.be/AZAwg2dFM7M) (If you are using a Windows Computer)
-* FDProgramming [Install on Mac](https://youtu.be/kWPXsl2GnBk) (If you are using a Mac)
+* FDProgramming [Install on Windows](https://youtu.be/RtLLqbY7PbA) (If you are using a Windows Computer)
+* FDProgramming [Install on Mac](https://youtu.be/iWHSEzXVfcc) (If you are using a Mac)
 * FDProgramming [Lab 01-A](content/Lab_01_A.md)
 * FDProgramming [Module 01 Part 2](https://youtu.be/B83xIjdl1no) (covers the text document including Lab B)
 * FDProgramming [Lab 01-B](content/Lab_01_B.md)
