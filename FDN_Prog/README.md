@@ -67,3 +67,6 @@ University of Washington: [Foundations of Programming - Online with Realtime mee
 9. [Module 09](Modules.md#module-09-materials-list) expand OOP: Create Modules to organize classes and functions. Linking modules, classes working with each other. Inheritance and UML
 
 [Back to Saravji's Hut](../README.md)
+
+## Terms of use
+Terms as outlined on [main](../README.md#terms-of-use) page are applicable.
