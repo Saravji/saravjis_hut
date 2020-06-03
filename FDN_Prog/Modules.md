@@ -28,12 +28,12 @@ Note: Text document is not part of free materials. See other learning path optio
 * FDProgramming [Module 01 Summary](https://youtu.be/OamRCosJuDY) (end comments / covers the text document Summary)
 
 ## Module 02 Materials List
-* FDProgramming [Module 02 Part 1]() (covers the text document including Lab A)  
-* FDProgramming [Module 02 Part 2]() (covers the text document including Lab B)  
-* FDProgramming [Module 02 Part 3]() (covers the text document including Lab C)  
-* FDProgramming [Module 02 Part 4]() (covers the text document including Lab D)  
-* FDProgramming [Module 02 Part 5]() (covers the text document after Lab D up to Summary)  
-* FDProgramming [Module 02 Summary]() (end comments / covers the text document Summary)  
+* FDProgramming [Module 02 Part 1](https://youtu.be/kQSN9k56Ano) (covers the text document including Lab A)  
+* FDProgramming [Module 02 Part 2](https://youtu.be/wVtc5fsxOg4) (covers the text document including Lab B)  
+* FDProgramming [Module 02 Part 3](https://youtu.be/dT1aRtJZ1P4) (covers the text document including Lab C)  
+* FDProgramming [Module 02 Part 4](https://youtu.be/mMHOY3CVUXU) (covers the text document including Lab D)  
+* FDProgramming [Module 02 Part 5](https://youtu.be/YT3hXBNJi4s) (covers the text document after Lab D up to Summary)  
+* FDProgramming [Module 02 Summary](https://youtu.be/OWZXCYS4QoU) (end comments / covers the text document Summary)  
 
 ## Module 03 Materials List
 * FDProgramming [Module 03 Part 1]() (covers the text document including Pseudocode)  
