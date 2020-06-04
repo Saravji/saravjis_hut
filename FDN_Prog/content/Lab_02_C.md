@@ -2,9 +2,9 @@
 
 ## LAB 02-C: Using the print function
 
-1.	Open Idle and create a script using this code:
+1.	Open Idle and create a script using this code:  
 ![alt text](images/LAB02_C.png "script LAB02_C")  
-2.	Verify that the script prints:
+2.	Verify that the script prints:  
 	`demo`  
 	`demodemo`  
 	`demo string`  
