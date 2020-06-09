@@ -6,4 +6,4 @@
 2.	Invoke `ipconfig` on Windows or `ipconfig` on Mac
 3.	Invoke `python -?` - And note what it does
 
-[Back to Modules Materials Lists](../Modules.md#Module-01-Materials-List)
+[Back to Modules Materials Lists](../Modules.md#module-01-materials-list)
