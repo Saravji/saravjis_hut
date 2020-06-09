@@ -51,18 +51,18 @@ Note: Text document is not part of free materials. See other learning path optio
 * FDProgramming [Module 03 Summary](https://youtu.be/4OvpjKDztZQ) (end comments / covers the text document Summary)  
 
 ## Module 04 Materials List
-* FDProgramming [Module 04 Part 1]() (covers the text document including String Methods)  
-* FDProgramming [Module 04 Part 2]() (covers the text document including Lab A)  
-* FDProgramming [Module 04 Part 3]() (covers the text document including Lab C)  
-* FDProgramming [Module 04 Part 4]() (covers the text document after Lab C up to Summary])  
-* FDProgramming [Module 04 Summary]() (end comments / covers the text document Summary)  
+* FDProgramming [Module 04 Part 1](https://youtu.be/IzvFhW6dRsI) (covers the text document including String Methods)  
+* FDProgramming [Module 04 Part 2](https://youtu.be/YMtzjpJkek0) (covers the text document including Lab A)  
+* FDProgramming [Module 04 Part 3](https://youtu.be/8Kmd5Enk4SI) (covers the text document including Lab C)  
+* FDProgramming [Module 04 Part 4](https://youtu.be/qIbCMPuf15o) (covers the text document after Lab C up to Summary])  
+* FDProgramming [Module 04 Summary](https://youtu.be/hr3AlQoilyQ) (end comments / covers the text document Summary)  
 
 ## Module 05 Materials List
-* FDProgramming [Module 05 Part 1]() (covers the text document including Lab A)  
-* FDProgramming [Module 05 Part 2]() (covers the text document including Lab B)  
-* FDProgramming [Module 05 Part 3]() (covers the text document including Script Template)  
-* FDProgramming [Module 05 Part 4]() (covers the text document up to Summary])  
-* FDProgramming [Module 05 Summary]() (end comments / covers the text document Summary)  
+* FDProgramming [Module 05 Part 1](https://youtu.be/L0WC4qmrdz8) (covers the text document including Lab A)  
+* FDProgramming [Module 05 Part 2](https://youtu.be/0J9vIKAUYJs) (covers the text document including Lab B)  
+* FDProgramming [Module 05 Part 3](https://youtu.be/sNVshDL__84) (covers the text document including Script Template)  
+* FDProgramming [Module 05 Part 4](https://youtu.be/q3-fpd_jhsQ) (covers the text document up to Summary])  
+* FDProgramming [Module 05 Summary](https://youtu.be/3WZMw3WtlyA) (end comments / covers the text document Summary)  
 
 ## Module 06 Materials List
 * FDProgramming [Module 06 Part 1]() (covers the text document including Lab A)  

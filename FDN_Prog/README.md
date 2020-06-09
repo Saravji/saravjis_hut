@@ -34,6 +34,7 @@ Learners completing this learning path will be able to:
 - recognize programming paradigms and concepts.
 
 ## Formats of this learning path
+the referenced written materials are not available in the free format.
 
 ### all formats:
 - youtube module videos
