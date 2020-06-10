@@ -53,7 +53,10 @@ Note: Text document is not part of free materials. See other learning path optio
 ## Module 04 Materials List
 * FDProgramming [Module 04 Part 1](https://youtu.be/IzvFhW6dRsI) (covers the text document including String Methods)  
 * FDProgramming [Module 04 Part 2](https://youtu.be/YMtzjpJkek0) (covers the text document including Lab A)  
+* FDProgramming [Lab 04-A](content/Lab_04_A.md)  
 * FDProgramming [Module 04 Part 3](https://youtu.be/8Kmd5Enk4SI) (covers the text document including Lab C)  
+* FDProgramming [Lab 04-B](content/Lab_04_B.md)  
+* FDProgramming [Lab 04-C](content/Lab_04_C.md)  
 * FDProgramming [Module 04 Part 4](https://youtu.be/qIbCMPuf15o) (covers the text document after Lab C up to Summary])  
 * FDProgramming [Module 04 Summary](https://youtu.be/hr3AlQoilyQ) (end comments / covers the text document Summary)  
 
