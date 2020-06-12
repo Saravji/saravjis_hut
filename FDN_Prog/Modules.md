@@ -62,7 +62,9 @@ Note: Text document is not part of free materials. See other learning path optio
 
 ## Module 05 Materials List
 * FDProgramming [Module 05 Part 1](https://youtu.be/L0WC4qmrdz8) (covers the text document including Lab A)  
+* FDProgramming [Lab 05-A](content/Lab_05_A.md)  
 * FDProgramming [Module 05 Part 2](https://youtu.be/0J9vIKAUYJs) (covers the text document including Lab B)  
+* FDProgramming [Lab 05-B](content/Lab_05_B.md)  
 * FDProgramming [Module 05 Part 3](https://youtu.be/sNVshDL__84) (covers the text document including Script Template)  
 * FDProgramming [Module 05 Part 4](https://youtu.be/q3-fpd_jhsQ) (covers the text document up to Summary])  
 * FDProgramming [Module 05 Summary](https://youtu.be/3WZMw3WtlyA) (end comments / covers the text document Summary)  
