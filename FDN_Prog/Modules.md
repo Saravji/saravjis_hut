@@ -1,8 +1,8 @@
-# Foundations of Programming (Python)
+# Foundations of Programming (Python)  
 
-## Modules Materials Lists
+## Modules Materials Lists  
 
-### Table of Contents
+### Table of Contents  
 [Module 01](#module-01-materials-list)  
 [Module 02](#module-02-materials-list)  
 [Module 03](#module-03-materials-list)  
@@ -13,7 +13,7 @@
 [Module 08](#module-08-materials-list)  
 [Module 09](#module-09-materials-list)  
 
-## Module 01 Materials List
+## Module 01 Materials List  
 Note: Text document is not part of free materials. See other learning path options to include the text document.
 * FDProgramming [Module 01 Part 1](https://youtu.be/xoqWGAxwrZ0) (covers the text document including Lab A)
 * FDProgramming [Install on Windows](https://youtu.be/RtLLqbY7PbA) (If you are using a Windows Computer)
@@ -70,33 +70,43 @@ Note: Text document is not part of free materials. See other learning path optio
 * FDProgramming [Module 05 Summary](https://youtu.be/3WZMw3WtlyA) (end comments / covers the text document Summary)  
 
 ## Module 06 Materials List
-* FDProgramming [Module 06 Part 1]() (covers the text document including Lab A)  
-* FDProgramming [Module 06 Part 2]() (covers the text document including Default Values)  
-* FDProgramming [Module 06 Part 3]() (covers the text document including Script Template)  
-* FDProgramming [Module 06 Part 4]() (covers the text document up to Summary])  
-* FDProgramming [Module 06 Summary]() (end comments / covers the text document Summary)  
+* FDProgramming [Module 06 Part 1](https://youtu.be/V_p5Zb-FHbU) (covers the text document including Lab A)  
+* FDProgramming [Lab 06-A](content/Lab_06_A.md)  
+* FDProgramming [Module 06 Part 2](https://youtu.be/bcOdd8J5vlM) (covers the text document including Default Values)  
+* FDProgramming [Lab 06-B](content/Lab_06_B.md)  
+* FDProgramming [Module 06 Part 3](https://youtu.be/pTr4QqSQXOU) (covers the text document including Script Template)  
+* FDProgramming [Module 06 Part 4](https://youtu.be/bMOVdz9B-Vk) (covers the text document up to Summary])  
+* FDProgramming [Lab 06-C](content/Lab_06_C.md)  
+* FDProgramming [Module 06 Summary](https://youtu.be/NXAHS_S4xAc) (end comments / covers the text document Summary)  
 
 ## Module 07 Materials List
-* FDProgramming [Module 07 Part 1]() (covers the text document including Lab A)  
-* FDProgramming [Module 07 Part 2]() (covers the text document including Lab B)  
-* FDProgramming [Module 07 Part 3]() (covers the text document up to Raise Custom Errors)  
-* FDProgramming [Module 07 Part 4]() (covers the text document up to Summary])  
-* FDProgramming [Module 07 Summary]() (end comments / covers the text document Summary)  
+* FDProgramming [Module 07 Part 1](https://youtu.be/kOdqRSYwmsI) (covers the text document including Lab A)  
+* FDProgramming [Lab 07-A](content/Lab_07_A.md)  
+* FDProgramming [Module 07 Part 2](https://youtu.be/Rd6fWPAvf0w) (covers the text document including Lab B)  
+* FDProgramming [Lab 07-B](content/Lab_07_B.md)  
+* FDProgramming [Module 07 Part 3](https://youtu.be/5_HaN4ggNAg) (covers the text document up to Raise Custom Errors)  
+* FDProgramming [Lab 07-C](content/Lab_07_C.md)  
+* FDProgramming [Module 07 Part 4](https://youtu.be/qbC-IiNm2qk) (covers the text document up to Summary])  
+* FDProgramming [Module 07 Summary](https://youtu.be/eGGz6KR4Qvo) (end comments / covers the text document Summary)  
 
 ## Module 08 Materials List
-* FDProgramming [Module 08 Part 1]() (covers the text document including Lab A)  
-* FDProgramming [Module 08 Part 2]() (covers the text document including Lab C)  
-* FDProgramming [Module 08 Part 3]() (covers the text document including Lab D)  
-* FDProgramming [Module 08 Part 4]() (covers the text document including static methods)  
-* FDProgramming [Module 08 Part 5]() (covers the text document up to Summary)  
-* FDProgramming [Module 08 Summary]() (end comments / covers the text document Summary)  
+* FDProgramming [Module 08 Part 1](https://youtu.be/DwkXcPmvOYY) (covers the text document including Lab A)  
+* FDProgramming [Lab 08-A](content/Lab_08_A.md)  
+* FDProgramming [Module 08 Part 2](https://youtu.be/yXldCdMm9vI) (covers the text document including Lab C)  
+* FDProgramming [Lab 08-B](content/Lab_08_B.md)  
+* FDProgramming [Lab 08-C](content/Lab_08_C.md)  
+* FDProgramming [Module 08 Part 3](https://youtu.be/wsDAVwxpFqI) (covers the text document including Lab D)  
+* FDProgramming [Lab 08-D](content/Lab_08_D.md)  
+* FDProgramming [Module 08 Part 4](https://youtu.be/FlOgMlovDIM) (covers the text document including static methods)  
+* FDProgramming [Module 08 Part 5](https://youtu.be/mLV2b2v48c8) (covers the text document up to Summary)  
+* FDProgramming [Module 08 Summary](https://youtu.be/1_UjD8DoRuc) (end comments / covers the text document Summary)  
 
 ## Module 09 Materials List
-* FDProgramming [Module 09 Part 1]() (covers the text document up to Organizing Modules)  
-* FDProgramming [Module 09 Part 2]() (covers the text document including Lab A)  
-* FDProgramming [Module 09 Part 3]() (covers the text document including Lab B)  
-* FDProgramming [Module 09 Part 4]() (covers the text document up to Summary)  
-* FDProgramming [Module 09 Summary]() (end comments / covers the text document Summary)  
+* FDProgramming [Module 09 Part 1](https://youtu.be/XWnD92V0FQE) (covers the text document up to Organizing Modules)  
+* FDProgramming [Module 09 Part 2](https://youtu.be/O_LLarLzsTo) (covers the text document including Lab A)  
+* FDProgramming [Module 09 Part 3](https://youtu.be/b3oHQRk61IQ) (covers the text document including Lab B)  
+* FDProgramming [Module 09 Part 4](https://youtu.be/h0HcUJPr72U) (covers the text document up to Summary)  
+* FDProgramming [Module 09 Summary](https://youtu.be/iDKKDh8uizw) (end comments / covers the text document Summary)  
 
 [Back to Learning Path Overview](README.md)  
 
