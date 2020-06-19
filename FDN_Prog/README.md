@@ -47,7 +47,7 @@ asking for voluntary contributions: [Saravji's Hut - Patreon Page](https://www.p
 In development
 
 ### Instructor led, CEUs eligible format:
-University of Washington: [Foundations of Programming - Online with Realtime meetings](https://www.pce.uw.edu/learning paths/foundations-of-programming-python)
+University of Washington: [Foundations of Programming - Online with Realtime meetings](https://www.pce.uw.edu/courses/foundations-of-programming-python)
 - approx. 300 pages of accompanying learning path text materials.
 - additional video content
 - curated list of additional referenced sources.
