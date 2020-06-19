@@ -29,9 +29,12 @@
 - ML / DS: fundamentals  
 - CS: Algorithms  
 - Python: web service with django  
+- Python for Beginners
+- Python Intermediate
+- git
 
 ## Terms of Use
 All materials unless noted otherwise are the intellectual property of Saravji's Hut.  
-All materials listed and/or linked as "free" are available to all at no charge. However, this does expressibly exclude downloading and/or permanently saving a copy of the materials in any form or on any medium without express, written consent.  
+All materials listed and/or linked as "free" are available to all at no charge. However, this does expressibly excludes downloading and/or permanently saving a copy of the materials in any form or on any medium without express, written consent.  
 Links to materials listed and/or linked as "free" are expressibly allowed and encouraged to be shared.  
 Materials made available thru any other formats are being made available on an individual basis.  
