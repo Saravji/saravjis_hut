@@ -11,15 +11,15 @@ In this Lab, you’ll create multiple modules that work together. We’ll re-imp
 1.	Create a script called 'TestHarness.py'  
 2.	Create a script module 'DataClasses.py'  
 3.	Add the code in this listing to the DataClasses.py script.  
-![alt text](images/LAB09_A1.JPG "listing DataClasses.py")  
+![alt text](images/LAB09_A1.jpg "listing DataClasses.py")  
 4.	Add code to your TestHarness.py script to test your DataClasses.py script  
 5.	Create a script module 'IOClasses.py'  
 6.	Add the code in this listing to the IOClasses.py script  
-![alt text](images/LAB09_A2.JPG "listing IOClasses.py")  
+![alt text](images/LAB09_A2.jpg "listing IOClasses.py")  
 7.	Add code to your TestHarness.py script to test your IOClasses.py script  
 8.	Create a script module 'ProcessingClasses.py'  
 9.	Add the code in this listing to the ProcessingClasses.py script  
-![alt text](images/LAB09_A3.JPG "listing ProcessingClasses.py") 
+![alt text](images/LAB09_A3.jpg "listing ProcessingClasses.py") 
 10.	Add code to your TestHarness.py script to test your ProcessingClasses.py script  
 11.	Create a script 'CDInventory.py'  
 12.	Add code to your script to run the application (former main section)  

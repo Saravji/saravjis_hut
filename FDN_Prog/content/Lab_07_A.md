@@ -8,9 +8,9 @@ We’ll replace the print output with writing to a file, all four results on one
 Do not change the existing code in the SimpleMath class!  
 
 Use these code snippets as your starter script:  
-![alt text](images/LAB07_A1.JPG "LAB07_A starter part 1")   
-![alt text](images/LAB07_A2.JPG "LAB07_A starter part 2")   
-![alt text](images/LAB07_A3.JPG "LAB07_A starter part 3")   
+![alt text](images/LAB07_A1.jpg "LAB07_A starter part 1")   
+![alt text](images/LAB07_A2.jpg "LAB07_A starter part 2")   
+![alt text](images/LAB07_A3.jpg "LAB07_A starter part 3")   
 
 1.	Make a copy of the LAB06_C.py file and save it as LAB07_A. Modify the script to reflect the structure in above sample.  
 2.	Add code at the first TODO to read the numbers from a text file.  
