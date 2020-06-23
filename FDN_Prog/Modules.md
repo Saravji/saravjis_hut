@@ -103,8 +103,9 @@ Note: Text document is not part of free materials. See other learning path optio
 
 ## Module 09 Materials List
 * FDProgramming [Module 09 Part 1](https://youtu.be/XWnD92V0FQE) (covers the text document up to Organizing Modules)  
-* FDProgramming [Module 09 Part 2](https://youtu.be/O_LLarLzsTo) (covers the text document including Lab A)  
-* FDProgramming [Module 09 Part 3](https://youtu.be/b3oHQRk61IQ) (covers the text document including Lab B)  
+* FDProgramming [Module 09 Part 2](https://youtu.be/O_LLarLzsTo) (covers the text document including Lab A)
+* FDProgramming [Lab 09-A](content/Lab_09_A.md)  
+* FDProgramming [Module 09 Part 3](https://youtu.be/b3oHQRk61IQ) (covers the text document up to Inheritance)  
 * FDProgramming [Module 09 Part 4](https://youtu.be/h0HcUJPr72U) (covers the text document up to Summary)  
 * FDProgramming [Module 09 Summary](https://youtu.be/iDKKDh8uizw) (end comments / covers the text document Summary)  
 

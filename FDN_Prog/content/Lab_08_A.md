@@ -1,21 +1,17 @@
 # Foundations of Programming (Python)  
 
-## LAB 07-A: Working with text files    
+## LAB 08-A: Working with Classes:
 
-In this Lab, we’ll continue with the code form Lab 06-C.  
-You’ll create a class for I/O and we’ll replace the user input with an input file that has one line with two numbers in it, separated by comma.   
-We’ll replace the print output with writing to a file, all four results on one line, separated by commas.  
-Do not change the existing code in the SimpleMath class!  
+In this Lab, we will work with classes.  
+The task / data we use: Create a class to hold information about music tracks / songs on a CD / music album. (position, title, length)  
 
-Use these code snippets as your starter script:  
-![alt text](images/LAB07_A1.JPG "LAB07_A starter part 1")   
-![alt text](images/LAB07_A2.JPG "LAB07_A starter part 2")   
-![alt text](images/LAB07_A3.JPG "LAB07_A starter part 3")   
+1.	Create a class file, save it as Lab08_A.py in the Mod_08 folder.  
+2.	Add code to create a class TrackInfo.  
+3.	Add code to create fields for position, title, length with data types int, string, string, respectively.  
+4.	Test the class and make sure it works.  
 
-1.	Make a copy of the LAB06_C.py file and save it as LAB07_A. Modify the script to reflect the structure in above sample.  
-2.	Add code at the first TODO to read the numbers from a text file.  
-3.	Add code at the second TODO to write the result to a text file.  
-4.	Test the script and write down how the code works.  
-5.	Think about what needed to be changed to handle multiple lines in the input file with two numbers each. (And write the results of the calculations out to the Output file!)  
+**One note about testing:** Make sure to test that the script works as expected (with ‘good’ values).  
+But also think about what values to use to test that you can’t break your script.  
+These tests typically are more efficient.  
 
-[Back to Modules Materials Lists](../Modules.md#module-07-materials-list)  
+[Back to Modules Materials Lists](../Modules.md#module-08-materials-list)
