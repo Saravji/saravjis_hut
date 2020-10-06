@@ -15,7 +15,8 @@
 - support via voluntary contributions: [Saravji's Hut - Patreon Page](https://www.patreon.com/saravjis_hut)  
 
 ## Available Materials
-- [Foundations of Programming (Python)](FDN_Prog/README.md) Learning Path  
+- [Foundations of Programming (Python)](FDN_Prog/README.md) Learning Path   
+- [Collection of Nuggets](nuggets/README.md)   
 
 ## Materials in Development
 - Foundations of Programming (Python) Intermediary Formats  
