@@ -1,2 +1,0 @@
-# Installing Annaconda on Windows
-

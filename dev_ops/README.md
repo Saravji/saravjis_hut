@@ -1,6 +1,6 @@
-# Saravji's Hut Nuggets
+# Saravji's Hut Dev Ops Nuggets
 
-A collection a small and helpful nuggets.  
+A collection a small and helpful nuggets related to dev ops.  
 In an attempt to organize them into reasonable buckets.   
 
 ## Installing Anaconda

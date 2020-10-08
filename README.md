@@ -16,7 +16,7 @@
 
 ## Available Materials
 - [Foundations of Programming (Python)](FDN_Prog/README.md) Learning Path   
-- [Collection of Nuggets](nuggets/README.md)   
+- [Collection of Dev Ops Nuggets](dev_ops/README.md)   
 
 ## Materials in Development
 - Foundations of Programming (Python) Intermediary Formats  
