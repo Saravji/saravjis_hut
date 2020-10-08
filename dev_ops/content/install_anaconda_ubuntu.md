@@ -1,6 +1,6 @@
 # Installing Anaconda on Linux (Ubuntu)
 
-## relevant for versions  
+## Relevant For Version  
 anaconda version 2020.07
 
 
@@ -58,7 +58,7 @@ This will start the installation process.
 
 - close your terminal session. to activate the configuration changes, it needs to be closed and re-opened anyhow.
 
-##verify instrallation / version
+##Verify Installation / Version
 - open terminal  
 you should se (base) at the beginning of your prompt.  
 This means the conda environment is active!  
@@ -71,7 +71,9 @@ This means the conda environment is active!
 
 ## Configuration  
 
-### to add a menu item for anaconda navigator:
+### add application icon for anaconda navigator:  
+(this is optional)  
+
 - open terminal  
 
 `cd .local/share/applications`
@@ -101,7 +103,8 @@ This means the conda environment is active!
 
 ![alt text](images/anaconda_ubuntu_2020_07_13.png "anaconda-navigator.desktop")
 
-## to add a menu item for spyder:
+### add application icon for spyder:
+(this is optional)  
 
 - open terminal  
 
@@ -132,6 +135,6 @@ This means the conda environment is active!
 
 ![alt text](images/anaconda_ubuntu_2020_07_14.png "spyder.desktop")
 
-## previous versions
+##Version History
 
 once updates to this page are made, the old versions are going to be archived here.  
