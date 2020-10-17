@@ -108,9 +108,9 @@ This means the conda environment is active!
 
 - open terminal  
 
-`cd .local/share/applications`
+```   cd .local/share/applications```
 
-`touch spyder.desktop`
+```   touch spyder.desktop```
 
 ![alt text](images/anaconda_ubuntu_2020_07_12.png "terminal 08")
 
