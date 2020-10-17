@@ -1,12 +1,15 @@
 # Installing Anaconda on Linux (Ubuntu)
 
 ## Relevant For Version  
-anaconda version 2020.07
+
+- anaconda version 2020.07
+- ubuntu 20.04 LTS
 
 
 ## Quick Install  
 
 ### direct link to installer:
+
 [64-Bit (x86) Installer (550 MB)](https://repo.anaconda.com/archive/Anaconda3-2020.07-Linux-x86_64.sh)
 
 ### go-there-yourself:
@@ -27,6 +30,7 @@ anaconda version 2020.07
 
 
 ## Detailed Install  
+
 - open terminal  
 
 - enter  
@@ -135,6 +139,6 @@ This means the conda environment is active!
 
 ![alt text](images/anaconda_ubuntu_2020_07_14.png "spyder.desktop")
 
-##Version History
+## Version History
 
 once updates to this page are made, the old versions are going to be archived here.  
