@@ -68,7 +68,7 @@
 
 ![alt text](images/anaconda_macosx_2020_07_13.png "Anaconda Graphical Installer - Installation running")
 
-If you get a pop-up asking for Installer to get access to files in Download folder, click [OK] to allow
+- If you get a pop-up asking for Installer to get access to files in Download folder, click [OK] to allow
 
 ![alt text](images/anaconda_macosx_2020_07_14.png "Anaconda Graphical Installer - Installer allow access")
 
@@ -87,9 +87,9 @@ If you get a pop-up asking for Installer to get access to files in Download fold
 
 ## Configuration  
 
-to verify the installation, open a terminal (if you had one open during install, close and re-open).
+- to verify the installation, open a terminal (if you had one open during install, close and re-open).
 
-if the prompt line starts with (base), the conda installation worked.  
+- if the prompt line starts with (base), the conda installation worked.  
 
 
 ```
@@ -104,7 +104,7 @@ should yield you a result as should
 
 ![alt text](images/anaconda_macosx_2020_07_18.png "Anaconda installation successfull")  
 
-further, you should have "Anaconda-Navigator" in your launchpad:  
+- further, you should have "Anaconda-Navigator" in your launchpad:  
 
 ![alt text](images/anaconda_macosx_2020_07_19.png "Launchpad")  
 

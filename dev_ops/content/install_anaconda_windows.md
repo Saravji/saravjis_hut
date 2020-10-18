@@ -25,7 +25,7 @@
 
 ![alt text](images/anaconda_windows_2020_07_03.png "Anaconda download")
 
-seelct "save"
+- select "save"
 
 
 ## Detailed Install  
@@ -75,11 +75,11 @@ seelct "save"
 
 ## Configuration  
 
-to verify the installation, open the anaconda prompt
+- to verify the installation, open the anaconda prompt
 
 ![alt text](images/anaconda_windows_2020_07_14.png "Anaconda Prompt")
 
-if the prompt line starts with (base), the conda installation worked.  
+- if the prompt line starts with (base), the conda installation worked.  
 
 ```
     python --version
@@ -93,7 +93,7 @@ should yield you a result as should
 
 ![alt text](images/anaconda_windows_2020_07_15.png "Anaconda installation successfull")  
 
-further, you should have "Anaconda-Navigator" and "Anaconda Prompt" in your start menu:  
+- further, you should have "Anaconda-Navigator" and "Anaconda Prompt" in your start menu:  
 
 ![alt text](images/anaconda_windows_2020_07_16.png "start menu")  
 
