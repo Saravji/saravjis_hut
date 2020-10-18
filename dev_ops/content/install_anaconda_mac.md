@@ -3,7 +3,7 @@
 ## Relevant For Version  
 
 - anaconda version 2020.07
-- MacOS X Catalina (10.15.7)
+- MacOS X Catalina (10.15.7) - should work similarily on older versions.
 
 ## Quick Install  
 
@@ -104,7 +104,7 @@ should yield you a result as should
 
 ![alt text](images/anaconda_macosx_2020_07_18.png "Anaconda installation successfull")  
 
-further, you should have "Anaconda-Navigator in your launchpad:  
+further, you should have "Anaconda-Navigator" in your launchpad:  
 
 ![alt text](images/anaconda_macosx_2020_07_19.png "Launchpad")  
 
