@@ -23,6 +23,8 @@ follow Readme at [github.com/saravji/notebook-server](https://github.com/saravji
 
 ## Detailed Install  
 
+**video demo of this installation:** [youtube - saravji's hut](https://youtu.be/Q9SWUjLs1Lo)
+
 ### prerequisite:
 
 - Ubuntu server 20.04 LTS installed.
@@ -152,6 +154,18 @@ For a quick reference / how-to see: [Linuxize - How to use screen](https://linux
 For a complete reference / official handbook see: [Screen manual](https://www.gnu.org/software/screen/manual/screen.html)  
 
 a screen terminal session keeps on going even if the calling terminal session gets terminated / disconnected. This means, you can let the jupyter notebook server run independently from your desktop.  
+
+## Remarks
+
+### compatability nbextensions with jupyter notebook 6.x
+
+At this time, most nbextensions are not exlictly compatible with jupyter notebook 6.x
+
+As a result, most extensions are marked as not usable, if the checkmark to "disable configurtaions for nbextensions without explicit compatablity" is set.
+
+To the best of my knowledge, extensions work fine with the jupyter notebook 6.x; it should therefore be ok to unckeck this box and use the extensions.
+
+re: [github jupyter nbextensions configurator](https://github.com/Jupyter-contrib/jupyter_nbextensions_configurator/issues/103)
 
 ## previous versions
 
