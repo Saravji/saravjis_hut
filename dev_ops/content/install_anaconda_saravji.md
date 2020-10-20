@@ -171,4 +171,4 @@ re: [github jupyter nbextensions configurator](https://github.com/Jupyter-contri
 
 ### ubuntu 16.04 LTS and anaconda3-4.4.0
 
-for the previous installation, refer to the git repo at [github.com/saravji/notebook-server](https://github.com/saravji/notebook-server) and follow the bottom part of the README instructions.
+for the previous installation, refer to the git repo at [github.com/saravji/notebook-server](https://github.com/saravji/notebook-server/README_16_04.md).
