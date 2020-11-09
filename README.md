@@ -6,7 +6,7 @@
 - Focused on the Learner.  
 
 ## What Saravji's Hut is not
-- An attempt to replace primary income.
+- An attempt to replace primary income.  
 - Focused on the instructor.  
 
 ## How you can contribute:
@@ -16,23 +16,21 @@
 
 ## Available Materials
 - [Foundations of Programming (Python)](FDN_Prog/README.md) Learning Path   
-- [Collection of Dev Ops Nuggets](dev_ops/README.md)   
+- [Collection of Dev Ops Nuggets](dev_ops/README.md)  
+- [Feature Selection and Feature Engineering](DS_ML/FS_FE/README.md)  
 
 ## Materials in Development
 - Foundations of Programming (Python) Intermediary Formats  
 - Foundations of Programming (Python) additional Modules  
-- ML / DS: Feature Selection  
-- ML / DS: Feature Engineering  
-- ML / DS: setting up a conventional ML / DS workstation  
 
 ## Planned Materials
 - ML / DS: visualizations  
 - ML / DS: fundamentals  
 - CS: Algorithms  
 - Python: web service with django  
-- Python for Beginners
-- Python Intermediate
-- git
+- Python for Beginners  
+- Python Intermediate  
+- git  
 
 ## Terms of Use
 All materials unless noted otherwise are the intellectual property of Saravji's Hut.  

@@ -55,7 +55,7 @@ University of Washington: [Foundations of Programming - Online with Realtime mee
 - weekly Instructor led online classroom.
 - Instructor and Teaching Assistant available for mentoring.
 
-## Modules materials collection
+## Modules and materials collection
 
 1. [Module 01](Modules.md#module-01-materials-list) Programming Basics, Setting up and Basics of Python, "Hello World" Application.
 2. [Module 02](Modules.md#module-02-materials-list) Python IDLE; Build-in functions, operators and data types.

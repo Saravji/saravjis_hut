@@ -1,10 +1,9 @@
-#Data Science and Machine Leanring
+#Data Science and Machine Learning
 
 ##Data Science
 
 ###Data Science Background
-[Feature Selection](DSModules/Feature_Selection.md)
-[Feature Engineering](DSModules/Feature_Engineering.md)
+[Feature Selection and Feature Engineering](FS_FE/README.md)
 
 ##Machine Learning
 
