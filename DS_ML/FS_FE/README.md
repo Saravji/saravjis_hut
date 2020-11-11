@@ -1,4 +1,4 @@
-#Feature Selection and Feature Engineering  
+# Feature Selection and Feature Engineering  
 
 An overview learning path about Feature Selection and Feature Engineering and why it matters.  
 
@@ -20,7 +20,7 @@ An overview learning path about Feature Selection and Feature Engineering and wh
 [slides](content/FS_FE_slides.pdf)  
 slide deck used in the presentations and video materials  
 
-[Feature Selection notebook](content/Demo notebook Feature Selection.ipynb)  
+[Feature Selection notebook](content/Demo_Notebook_Feature_Selection.ipynb)  
 Demo notebook Feature Selection used in the presentations and video materials
 
 [Feature Engineering notebook](content/Demo Notebook Feature Engineering.ipynb)  
@@ -37,23 +37,23 @@ Witold R. Rudnicki (University of Warsaw)
 
 
 
-##Part 1  
+## Part 1  
 
 Overview  
 
-##Part 2  
+## Part 2  
 
 Feature Selection  
 
-##Part 3  
+## Part 3  
 
 Feature Engineering  
 
-##Terms of use  
+## Terms of use  
 
 Terms as outlined on [main](../../README.md#terms-of-use) page are applicable.  
 
-##License  
+## License  
 
 These materials are governed by the BSD-3 license. [Details](LICENSE)  
 
