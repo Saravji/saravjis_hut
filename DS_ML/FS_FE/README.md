@@ -2,7 +2,6 @@
 
 An overview learning path about Feature Selection and Feature Engineering and why it matters.  
 
-
 ## What this learning path is  
 - an introduction to why feature selection is an essential step in building DS and ML pipelines.  
 - an introduction to basic feature engineering.  
@@ -12,42 +11,36 @@ An overview learning path about Feature Selection and Feature Engineering and wh
 - a one-fits-all solution guide.  
 
 ## Objective of this learning path  
-- establish an intuition about where to focus efforts when creating DS and ML pipelines (assuming a dataset post preparation and cleaning steps)
-
+establish an intuition about where to focus efforts when creating DS and ML pipelines.  
+(assuming a dataset post preparation and cleaning steps is available)
 
 ## Modules and Materials Collection  
+_Note:_ the content of this learning path is also being used in presentations.  
 
-[slides](content/FS_FE_slides.pdf)  
-slide deck used in the presentations and video materials  
+### Slides  
+[slide deck](content/FS_FE_slides.pdf) used in the presentations and video materials  
 
-[Feature Selection notebook](content/Demo_Notebook_Feature_Selection.ipynb)  
-Demo notebook Feature Selection used in the presentations and video materials
+### Jupyter Notebooks
+used in the presentations and video materials  
+[Demo Notebook Feature Selection](content/Demo_Notebook_Feature_Selection.ipynb)  
+[Demo Notebook Feature Engineering](content/Demo_Notebook_Feature_Engineering.ipynb)  
 
-[Feature Engineering notebook](content/Demo Notebook Feature Engineering.ipynb)  
-Demo notebook Feature Engineering used in the presentations and video materials  
-
-[Madelon Dataset](content/papers/Dataset.pdf)  
-Design of experiments for the NIPS 2003 variable selection benchmark [copy of the dataset](content/data/README.md)  
+### Dataset
+[Madelon Dataset](content/papers/Dataset.pdf) paper  
+Design of experiments for the NIPS 2003 variable selection benchmark
 Isabelle Guyon – July 2003  
+[Copy of the Dataset](content/data/README.md)  
 
-[boruta Feature Selection Heuristic](content/papers/v36i11.pdf)  
+### Algorithms
+[Boruta Feature Selection Heuristic](content/papers/v36i11.pdf)  
 Feature Selection with the Boruta Package  
 Miron B. Kursa (University of Warsaw)  
-Witold R. Rudnicki (University of Warsaw)
+Witold R. Rudnicki (University of Warsaw)  
 
-
-
-## Part 1  
-
-Overview  
-
-## Part 2  
-
-Feature Selection  
-
-## Part 3  
-
-Feature Engineering  
+### Videos  
+1. Overview  
+2. Feature Selection  
+3. Feature Engineering  
 
 ## Terms of use  
 
