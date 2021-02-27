@@ -82,7 +82,7 @@ Note: Text document is not part of free materials. See other learning path optio
 ## Module 07 Materials List
 * FDProgramming [Module 07 Part 1](https://youtu.be/b0BnJyrRMH8) (covers the text document including Lab A)  
 * FDProgramming [Lab 07-A](content/Lab_07_A.md)  
-* FDProgramming [Module 07 Part 2](https://youtu.be/b0BnJyrRMH8) (covers the text document including Lab B)  
+* FDProgramming [Module 07 Part 2](https://youtu.be/32U4bfxQBzI) (covers the text document including Lab B)  
 * FDProgramming [Lab 07-B](content/Lab_07_B.md)  
 * FDProgramming [Module 07 Part 3](https://youtu.be/1Qoup9KCKOQ) (covers the text document up to Raise Custom Errors)  
 * FDProgramming [Lab 07-C](content/Lab_07_C.md)  
