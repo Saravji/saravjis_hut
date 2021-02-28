@@ -11,8 +11,9 @@
 
 ## How you can contribute:
 - spread the word  
+- [follow on twitter](https://twitter.com/intent/follow?screen_name=Saravji)
+- [subscribe to YouTube channel](https://www.youtube.com/channel/UCbHQVBE_i-4FlJUcU7Inl-g?sub_confirmation=1)
 - give constructive feedback  
-- support via voluntary contributions: [Saravji's Hut - Patreon Page](https://www.patreon.com/saravjis_hut)  
 
 ## Available Materials
 - [Foundations of Programming (Python)](FDN_Prog/README.md) Learning Path   
