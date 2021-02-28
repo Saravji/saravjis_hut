@@ -22,8 +22,10 @@ _Note:_ the content of this learning path is also being used in presentations.
 
 ### Jupyter Notebooks
 used in the presentations and video materials  
-[Demo Notebook Feature Selection](content/Demo_Notebook_Feature_Selection.ipynb)  
-[Demo Notebook Feature Engineering](content/Demo_Notebook_Feature_Engineering.ipynb)  
+(if you don't see the notebook rendered, you need to reload the page)  
+  
+[Demo Notebook Feature Selection](https://github.com/Saravji/saravjis_hut/blob/master/DS_ML/FS_FE/content/Demo_Notebook_Feature_Selection.ipynb)  
+[Demo Notebook Feature Engineering](https://github.com/Saravji/saravjis_hut/blob/master/DS_ML/FS_FE/content/Demo_Notebook_Feature_Engineering.ipynb)  
 
 ### Dataset
 [Madelon Dataset](content/papers/Dataset.pdf) paper  
@@ -40,7 +42,9 @@ Witold R. Rudnicki (University of Warsaw)
 ### Videos  
 1. Overview  
 2. Feature Selection  
-3. Feature Engineering  
+3. Feature Selection notebook  
+4. Feature Engineering  
+5. Feature Engineering notebook  
   
   
 [Back to Saravji's Hut](../../README.md)  |  [Back to Data Science and Machine Learning](../README.md)
