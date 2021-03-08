@@ -2,7 +2,7 @@
 
 ## Data Science
 
-### Data Science Background
+### Data Science Educational Talks
 [Feature Selection and Feature Engineering](FS_FE/README.md)
 
 ## Machine Learning

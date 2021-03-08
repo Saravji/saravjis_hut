@@ -18,7 +18,7 @@
 ## Available Materials
 - [Foundations of Programming (Python)](FDN_Prog/README.md) Learning Path   
 - [Collection of Dev Ops Nuggets](dev_ops/README.md)  
-- [Feature Selection and Feature Engineering](DS_ML/FS_FE/README.md)  
+- [Feature Selection and Feature Engineering](DS_ML/FS_FE/README.md) Educational Talk  
 
 ## Materials in Development
 - Foundations of Programming (Python) Intermediary Formats  
