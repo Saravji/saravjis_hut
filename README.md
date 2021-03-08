@@ -11,14 +11,14 @@
 
 ## How you can contribute:
 - spread the word  
-- [follow on twitter](https://twitter.com/intent/follow?screen_name=Saravji)
-- [subscribe to YouTube channel](https://www.youtube.com/channel/UCbHQVBE_i-4FlJUcU7Inl-g?sub_confirmation=1)
+- [subscribe to the YouTube Channel](https://www.youtube.com/channel/UCbHQVBE_i-4FlJUcU7Inl-g?sub_confirmation=1)  
+- [follow on twitter](https://twitter.com/intent/follow?screen_name=Saravji) to receive notifications about new uploads and other related news  
 - give constructive feedback  
 
 ## Available Materials
 - [Foundations of Programming (Python)](FDN_Prog/README.md) Learning Path   
 - [Collection of Dev Ops Nuggets](dev_ops/README.md)  
-- [Feature Selection and Feature Engineering](DS_ML/FS_FE/README.md)  
+- [Feature Selection and Feature Engineering](DS_ML/FS_FE/README.md) Educational Talk  
 
 ## Materials in Development
 - Foundations of Programming (Python) Intermediary Formats  
