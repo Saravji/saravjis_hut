@@ -42,7 +42,7 @@ Witold R. Rudnicki (University of Warsaw)
 ### Videos  
 1. [Overview](https://youtu.be/Tw8NSHutwDY)  
 2. [Feature Selection](https://youtu.be/bPYwVmZhGM4)  
-3. Feature Selection notebook  
+3. [Feature Selection notebook](https://youtu.be/1hg4ygW52Pw)  
 4. [Feature Engineering](https://youtu.be/oIrd4duULIA)  
 5. Feature Engineering notebook  
 6. [Remarks and Results](https://youtu.be/KHIy_B3aq8U)  
