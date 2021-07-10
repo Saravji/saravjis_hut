@@ -4,6 +4,6 @@
 
 1.	Open a terminal
 2.	Invoke `ipconfig` on Windows or `ifconfig` on Mac
-3.	Invoke `python -?` on Windows or `python3 --help` on Mac - And note what it does
+3.	Invoke `python --help` - And note what it does
 
 [Back to Modules Materials Lists](../Modules.md#module-01-materials-list)
